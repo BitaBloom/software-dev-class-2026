@@ -1,0 +1,6 @@
+# Red rainfall alerts will be written here automatically.
+# Example format:
+# 2026-05-19 14:30:00 | City: Beijing | Rainfall: 25.00 mm/h | Level: Red
+2026-05-19 13:24:19 | City: Beijing | Rainfall: 50.00 mm/h | Level: Red
+2026-05-19 13:26:59 | City: Beijing | Rainfall: 24.00 mm/h | Level: Red
+2026-05-19 13:30:02 | City: Beijing | Rainfall: 30.00 mm/h | Level: Red

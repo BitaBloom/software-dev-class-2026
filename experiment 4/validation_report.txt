@@ -1,0 +1,24 @@
+Validation Report - Flood Inundation Analysis
+=======================================================
+DEM shape: (100, 100)
+Minimum elevation: 30.00 m
+Maximum elevation: 80.00 m
+
+Flooded area increases with water level: True
+Flooded percentage always between 0 and 100: True
+Maximum depth check passed for all tested levels: True
+Edge case water below minimum elevation gives 0% flooded: True
+Edge case water above maximum elevation gives 100% flooded: True
+
+Rising Water Results:
+Water level 40.0 m: 13.41% flooded, max depth 10.00 m
+Water level 41.0 m: 15.68% flooded, max depth 11.00 m
+Water level 42.0 m: 18.11% flooded, max depth 12.00 m
+Water level 43.0 m: 20.25% flooded, max depth 13.00 m
+Water level 44.0 m: 22.85% flooded, max depth 14.00 m
+Water level 45.0 m: 25.56% flooded, max depth 15.00 m
+Water level 46.0 m: 28.48% flooded, max depth 16.00 m
+Water level 47.0 m: 31.15% flooded, max depth 17.00 m
+Water level 48.0 m: 34.20% flooded, max depth 18.00 m
+Water level 49.0 m: 37.19% flooded, max depth 19.00 m
+Water level 50.0 m: 40.38% flooded, max depth 20.00 m
